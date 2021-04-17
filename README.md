@@ -1,2 +1,2 @@
 # ML-algorithms
-Implementation of simple ML algorithms in C
+Implementation of simple ML algorithms in C and Python.
